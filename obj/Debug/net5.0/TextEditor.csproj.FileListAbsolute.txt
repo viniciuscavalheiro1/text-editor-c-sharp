@@ -1,0 +1,16 @@
+/home/vinicius/dotnet/TextEditor/bin/Debug/net5.0/TextEditor
+/home/vinicius/dotnet/TextEditor/bin/Debug/net5.0/TextEditor.deps.json
+/home/vinicius/dotnet/TextEditor/bin/Debug/net5.0/TextEditor.runtimeconfig.json
+/home/vinicius/dotnet/TextEditor/bin/Debug/net5.0/TextEditor.runtimeconfig.dev.json
+/home/vinicius/dotnet/TextEditor/bin/Debug/net5.0/TextEditor.dll
+/home/vinicius/dotnet/TextEditor/bin/Debug/net5.0/ref/TextEditor.dll
+/home/vinicius/dotnet/TextEditor/bin/Debug/net5.0/TextEditor.pdb
+/home/vinicius/dotnet/TextEditor/obj/Debug/net5.0/TextEditor.csproj.AssemblyReference.cache
+/home/vinicius/dotnet/TextEditor/obj/Debug/net5.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinicius/dotnet/TextEditor/obj/Debug/net5.0/TextEditor.AssemblyInfoInputs.cache
+/home/vinicius/dotnet/TextEditor/obj/Debug/net5.0/TextEditor.AssemblyInfo.cs
+/home/vinicius/dotnet/TextEditor/obj/Debug/net5.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/vinicius/dotnet/TextEditor/obj/Debug/net5.0/TextEditor.dll
+/home/vinicius/dotnet/TextEditor/obj/Debug/net5.0/ref/TextEditor.dll
+/home/vinicius/dotnet/TextEditor/obj/Debug/net5.0/TextEditor.pdb
+/home/vinicius/dotnet/TextEditor/obj/Debug/net5.0/TextEditor.genruntimeconfig.cache
